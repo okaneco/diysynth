@@ -1,0 +1,9 @@
+[package]
+name = "diysynth"
+version = "0.1.0"
+authors = ["okaneco <47607823+okaneco@users.noreply.github.com>"]
+edition = "2018"
+repository = "https://github.com/okaneco/diysynth"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+exclude = ["gfx"]
